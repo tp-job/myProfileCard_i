@@ -47,13 +47,13 @@ html {
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .3);
+    box-shadow: 0 1rem 3rem rgba(120, 0, 75, 0.3);
 }
 
 .verified {
     width: 2.5rem;
     height: 2.5rem;
-    background: linear-gradient(to right, #833ab4, #c13584, #e1306c);
+    background: linear-gradient(to right, #306fee, #4c7fe6, #6590e6);
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -214,7 +214,7 @@ html {
 }
 
 .social-info:nth-child(3) i {
-    background: linear-gradient(to right, #4267b2, #5b8df1);
+    background: linear-gradient(to right, #0d1117, #161b22);
 }
 
 .social-info i:hover {
