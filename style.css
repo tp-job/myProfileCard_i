@@ -47,7 +47,7 @@ html {
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    box-shadow: 0 1rem 3rem rgba(120, 0, 75, 0.3);
+    box-shadow: 0 1rem 3rem rgba(60, 0, 30, 0.3);
 }
 
 .verified {
